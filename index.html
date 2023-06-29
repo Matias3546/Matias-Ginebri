@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Juego de preguntas sobre fútbol</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <h1>Juego de preguntas sobre fútbol</h1>
+  <div id="pregunta-container">
+    <p id="pregunta-texto"></p>
+    <div id="opciones-lista"></div>
+    <button id="responder-btn">Responder</button>
+    <button id="finalizar-btn" style="display: none;">Finalizar juego</button>
+    <button id="reiniciar-btn" style="display: none;">Reiniciar juego</button>
+    <table id="respuestas-tabla" style="display: none;">
+      <thead>
+        <tr>
+          <th>Pregunta</th>
+          <th>Respuesta</th>
+          <th>Correcta/Incorrecta</th>
+        </tr>
+      </thead>
+      <tbody id="respuestas-tabla-body"></tbody>
+    </table>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

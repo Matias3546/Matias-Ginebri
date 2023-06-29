@@ -1,0 +1,52 @@
+[
+    {
+      "pregunta": "¿Cuál es el equipo más ganador de champions?",
+      "opciones": ["Real Madrid", "Milan", "Liverpool"],
+      "respuesta": "Real Madrid"
+    },
+    {
+      "pregunta": "¿Cuál es el país que ha ganado más Copas del Mundo?",
+      "opciones": ["Brasil", "Alemania", "Argentina"],
+      "respuesta": "Brasil"
+    },
+    {
+      "pregunta": "¿En qué país se celebró el Mundial de Fútbol 2018?",
+      "opciones": ["Rusia", "Francia", "Brasil"],
+      "respuesta": "Rusia"
+    },
+    {
+      "pregunta": "¿Que jugador ganó más balones de oro?",
+      "opciones": ["Benzema", "Cristiano ronaldo", "Lionel Messi"],
+      "respuesta": "Lionel Messi"
+    },
+    {
+      "pregunta": "¿Quien es el máximo goleador de la historia del futbol?",
+      "opciones": ["Pelé", "Cristiano ronaldo", "Lionel Messi"],
+      "respuesta": "Cristiano ronaldo"
+    },
+    {
+      "pregunta": "¿Que jugador Argentino es apodado como la brujita",
+      "opciones": ["Sebastian Veron", "Pablo Aimar", "Clemente Rodriguez"],
+      "respuesta": "Sebastian Veron"
+    },
+    {
+      "pregunta": "¿Como se llama el estadio del FC Barcelona?",
+      "opciones": ["Bernabeu", "Camp nou", "Mestalla"],
+      "respuesta": "Camp nou"
+    },
+    {
+      "pregunta": "¿Que jugador es el máximo goleador de la champions?",
+      "opciones": ["Messi", "Cristiano ronaldo", "Haaland"],
+      "respuesta": "Cristiano ronaldo"
+    },
+    {
+      "pregunta": "¿Quien disputó la final de la champions 2015?",
+      "opciones": ["Barcelona vs Juventus", "Real Madrid vs Liverpool", "Bayern Munich vs Borussia Dortmund"],
+      "respuesta": "Barcelona vs Juventus"
+    },
+    {
+      "pregunta": "¿Que equipo ganó Premier League en 2012",
+      "opciones": ["Chelsea", "Liverpool", "Manchester City"],
+      "respuesta": "Manchester City"
+    }
+  ]
